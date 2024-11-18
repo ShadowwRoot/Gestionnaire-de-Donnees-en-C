@@ -54,7 +54,8 @@ chmod +x main
   ./main
   ```
 - Sur **Windows** :
-  ./main.exe
+   ```
+ ./main.exe
   ```
 
 ---
