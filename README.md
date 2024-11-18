@@ -50,12 +50,13 @@ Assurez-vous que le fichier **`main`** est exécutable. Si ce n'est pas le cas, 
 chmod +x main
 
 ### Lancer le programme :
-- Sur **Linux/macOS** :
+- Sur **Linux/macOS** : 
+  ```bash
   ./main
   ```
-- Sur **Windows** :
-   ```
- ./main.exe
+- Sur **Windows** : 
+  ```bash
+  ./main.exe
   ```
 
 ---
