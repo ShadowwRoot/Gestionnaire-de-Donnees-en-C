@@ -34,7 +34,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
 ## Installation
 1. **Télécharger le projet :**
    - Clonez le projet depuis GitHub :
-     ```bash
+     ---
      git clone <URL_DU_DEPOT>
      cd <NOM_DU_DOSSIER>
      ```
