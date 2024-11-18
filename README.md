@@ -43,10 +43,12 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
      ```bash
      make
      ```
-
----
-
 ## Exécution
+### Avant de lancer le programme :
+Assurez-vous que le fichier **`main`** est exécutable. Si ce n'est pas le cas, modifiez les permissions avec la commande suivante :
+```bash
+chmod +x main
+
 ### Lancer le programme :
 - Sur **Linux/macOS** : 
   ```bash
