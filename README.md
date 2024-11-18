@@ -82,15 +82,17 @@ Lors du lancement du programme, vous serez invité à choisir un mode :
 
 ## Exemple d'Utilisation :
 1. **Insertion de données :**
-   ```
-   > insert 1 Alice
-   > insert 2 Bob
-   ```
+> insert 1 Alice
+> insert 2 Bob
+> insert 3 Charlie
+
 2. **Affichage des données :**
    ```
    > select
    ID: 1, Nom: Alice
    ID: 2, Nom: Bob
+   ID: 3, Nom: Charlie
+
    ```
 3. **Sauvegarde :**
    ```
