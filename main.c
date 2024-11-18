@@ -51,7 +51,6 @@ void run_tests() {
         printf("\n== Test d'insertion dans l'arbre binaire ==\n");
         insert_node(&tree, 2, "Bob");
         insert_node(&tree, 1, "Alice");
-        insert_node(&tree, 3, "Charlie");
         printf("Insertion dans l'arbre binaire effectuée.\n");
     }
 
@@ -63,6 +62,7 @@ void run_tests() {
     free_tree(tree.root);
 }
 
+// Point d'entrée principal du programme
 int main() {
     int choice = 0; // Initialisation à une valeur par défaut
 
