@@ -51,7 +51,7 @@ chmod +x main
 
 ### Lancer le programme :
 - Sur **Linux/macOS** : 
-  ```bash
+  ```
   ./main
   ```
 - Sur **Windows** : 
