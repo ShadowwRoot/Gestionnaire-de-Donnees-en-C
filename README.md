@@ -82,9 +82,9 @@ Lors du lancement du programme, vous serez invité à choisir un mode :
 
 ## Exemple d'Utilisation :
 1. **Insertion de données :**
-> insert 1 Alice
-> insert 2 Bob
-> insert 3 Charlie
+ > insert 1 Alice
+ > insert 2 Bob
+ > insert 3 Charlie
 
 2. **Affichage des données :**
    ```
