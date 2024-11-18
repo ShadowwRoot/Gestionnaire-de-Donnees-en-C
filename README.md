@@ -24,7 +24,10 @@ Le projet offre deux modes :
 ## Prérequis
 Avant de commencer, assurez-vous d'avoir les éléments suivants :
 - **GCC** installé (vérifiez avec `gcc --version`).
-- Un terminal ou une invite de commande pour exécuter les commandes.
+-Assurez-vous que le fichier main est exécutable. Si ce n'est pas le cas, modifiez les permissions avec la commande suivante :
+
+
+chmod +x main
 
 ---
 
