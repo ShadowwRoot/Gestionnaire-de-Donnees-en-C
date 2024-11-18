@@ -46,7 +46,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
 ## Exécution
 ### Avant de lancer le programme :
 Assurez-vous que le fichier **`main`** est exécutable. Si ce n'est pas le cas, modifiez les permissions avec la commande suivante :
-```bash
+```
 chmod +x main
 
 ### Lancer le programme :
@@ -55,7 +55,7 @@ chmod +x main
   ./main
   ```
 - Sur **Windows** : 
-  ```bash
+  ```
   ./main.exe
   ```
 
